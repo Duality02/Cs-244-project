@@ -1,0 +1,21 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{SRS Document}
+\author{}
+\date{June 2022}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+This system is for a health center. The health center has problems with searching and storing their data as they were doing these things with books and pens. This also leads to problems with the patients and customers as they needed a lot of time to search for their patient data  which makes the customers angry.
+\section{The Purpose Of The Project}
+The purpose of this project is to make the work for the employees who works in the health center easier for them as they were working and collecting the peoples data using books and pens.This system will make it for them easier to store data and search for it also. This will make their life more easier. we also are doing this so they like and know how the computer can work so they can be more advanced in our world.
+\section{The User Needs}
+The user or the client has told us that he needs a simple system that can help him to store the data in it instead of writing on the books and to help them also in their daily work with the customers. 
+\section{The Content Of the Project}
+This system has a login interface for the user. The system also has a class diagram , sequence diagram and a use case diagram that shows how the system can work. 
+
+\end{document}
